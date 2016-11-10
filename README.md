@@ -1,6 +1,6 @@
 DSi Resource Management System
 ==================================
-This is an React(ReactJS) project.
+This is a React(ReactJS) project.
 
 HOW TO RUN
 ========
